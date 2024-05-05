@@ -1,1 +1,20 @@
+body 
+{ background-color: cornflowerblue; }
 
+fieldset 
+{ border: solid white 5px; 
+  padding: 2rem 0;
+  border-bottom: 3px solid #3b3b4f
+  margin: 50px; }
+
+.crossgen-titles-list 
+{ padding: 75px;
+  margin: 50px; } 
+
+.crossgen-titles 
+{ display: inline-block;
+  width: 200px;
+  height: 200px;
+  background-color: grey;
+  border: solid white;
+  text-align: center; }
